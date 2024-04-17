@@ -198,7 +198,7 @@ header{
 }
 
 #banner-2{
-	background-image: url('/images/apple15.jpg');
+	background-image: url('../images/apple15.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 550px;
@@ -225,7 +225,7 @@ header{
 			background-color:var(--grey);
 
 			.card-1{
-				background-image: url('../images/iphone-14-removebg-preview.png');
+				background-image: url('/images/14-removebg-preview.png');
 				background-position: bottom;
 				background-size: cover;
 				height: 350px;
