@@ -188,7 +188,7 @@ header nav ul.menu-area input {
 }
 
 #banner-2 {
-  background-image: url("/images/apple15.jpg");
+  background-image: url("../images/apple15.jpg");
   background-size: cover;
   background-position: center;
   height: 550px;
@@ -208,10 +208,10 @@ header nav ul.menu-area input {
 #cards .All-cards .box1 {
   width: 100%;
   height: 650px;
-  background-color: var(--grey);
+  background-color: red;
 }
 #cards .All-cards .box1 .card-1 {
-  background-image: url("/images/iphone-14-removebg-preview.png");
+  background-image: url("../images/iphone-14-removebg-preview.png");
   background-position: bottom;
   background-size: cover;
   height: 350px;
@@ -244,7 +244,7 @@ header nav ul.menu-area input {
   text-decoration: none;
 }
 #cards .All-cards .box1 .card-2 {
-  background-image: url("/images/apple_vision-removebg-preview.png");
+  background-image: url("../images/apple_vision-removebg-preview.png");
   background-position: center;
   background-size: cover;
   height: 100%;
@@ -277,7 +277,7 @@ header nav ul.menu-area input {
   text-decoration: none;
 }
 #cards .All-cards .box1 .card-3 {
-  background-image: url("/images/i-watch-removebg-preview.png");
+  background-image: url("../images/i-watch-removebg-preview.png");
   background-position: center;
   background-size: cover;
   height: 560px;
@@ -310,7 +310,7 @@ header nav ul.menu-area input {
   text-decoration: none;
 }
 #cards .All-cards .box1 .card-4 {
-  background-image: url("/images/ipad-pro2.jpg");
+  background-image: url("../images/ipad-pro2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -343,7 +343,7 @@ header nav ul.menu-area input {
   text-decoration: none;
 }
 #cards .All-cards .box1 .card-5 {
-  background-image: url("/images/trade-in-removebg-preview.png");
+  background-image: url("../images/trade-in-removebg-preview.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -375,7 +375,7 @@ header nav ul.menu-area input {
   text-decoration: none;
 }
 #cards .All-cards .box1 .card-6 {
-  background-image: url("/images/i-card-removebg-preview.png");
+  background-image: url("../images/i-card-removebg-preview.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -635,7 +635,7 @@ footer #select-end {
 }
 
 #lady-banner {
-  background-image: url("/images/ladybanner2.jpg");
+  background-image: url("../images/ladybanner2.jpg");
   background-position-y: center;
   background-size: cover;
   height: 560px;
@@ -945,7 +945,7 @@ footer #select-end {
 }
 
 #backgrounds .back-1 {
-  background-image: url("/images/Back-5.jpg");
+  background-image: url("../images/Back-5.jpg");
   background-size: cover;
   height: 550px;
   background-position: center;
@@ -970,7 +970,7 @@ footer #select-end {
   color: white;
 }
 #backgrounds .back-2 {
-  background-image: url("/images/back-6.jpg");
+  background-image: url("../images/back-6.jpg");
   background-size: cover;
   height: 550px;
   background-position: center;
@@ -1269,7 +1269,7 @@ footer #select-end {
 }
 
 #ipadd {
-  background-image: url("/images/ipadd-removebg-preview.png");
+  background-image: url("../images/ipadd-removebg-preview.png");
   background-size: cover;
   background-position: center;
   height: 550px;
@@ -1377,7 +1377,7 @@ footer #select-end {
   background-color: var(--grey);
 }
 #applework .work-1 {
-  background-image: url("/images/Back-6.jpg");
+  background-image: url("../images/Back-6.jpg");
   background-size: cover;
   width: 100%;
   height: 550px;
@@ -1399,7 +1399,7 @@ footer #select-end {
   font-size: 20px;
 }
 #applework .work-2 {
-  background-image: url("/images/Back-5.jpg");
+  background-image: url("../images/Back-5.jpg");
   background-size: cover;
   width: 100%;
   height: 550px;
@@ -1477,7 +1477,7 @@ footer #select-end {
 }
 
 #manbanner {
-  background-image: url("/images/man.jpg");
+  background-image: url("../images/man.jpg");
   background-size: cover;
   height: 650px;
   border-radius: 30px;
@@ -1609,7 +1609,7 @@ footer #select-end {
   height: 300px;
 }
 #I-1 #S-2 {
-  background-image: url("/images/S22.jpg");
+  background-image: url("../images/S22.jpg");
   background-size: cover;
   background-position: center;
   height: 550px;
@@ -1652,7 +1652,7 @@ footer #select-end {
   background-color: white;
   margin: 36px;
   text-align: center;
-  background-image: url("/images/Airtag.jpg");
+  background-image: url("../images/Airtag.jpg");
   height: 550px;
   background-size: cover;
   background-position: center;
@@ -1678,7 +1678,7 @@ footer #select-end {
   background-color: white;
   margin: 36px;
   text-align: center;
-  background-image: url("/images/Headair1-removebg-preview.png");
+  background-image: url("../images/Headair1-removebg-preview.png");
   height: 550px;
   background-size: cover;
   background-position: center;
@@ -1721,7 +1721,7 @@ footer #select-end {
   background-color: white;
   margin: 36px;
   text-align: center;
-  background-image: url("/images/IOS17-removebg-preview.png");
+  background-image: url("../images/IOS17-removebg-preview.png");
   height: 550px;
   background-size: cover;
   background-position: center;
@@ -1774,7 +1774,7 @@ footer #select-end {
   height: 550px;
   color: white;
   padding-top: 20px;
-  background-image: url("/images/Privacy1.webp");
+  background-image: url("../images/Privacy1.webp");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -1840,7 +1840,7 @@ footer #select-end {
 }
 
 #W-2 {
-  background-image: url("/images/watch-2.jpg");
+  background-image: url("../images/watch-2.jpg");
   background-size: cover;
   background-position: center;
   background-color: black;
@@ -2104,7 +2104,7 @@ footer #select-end {
   width: 100%;
   height: 600px;
   padding-top: 20px;
-  background-image: url("/images/Headair-removebg-preview.png");
+  background-image: url("../images/Headair-removebg-preview.png");
   background-size: cover;
   background-color: var(--grey);
   background-position: center;
@@ -2208,7 +2208,7 @@ footer #select-end {
 }
 
 #A-2 {
-  background-image: url("/images/airpodnew.jpg");
+  background-image: url("../images/airpodnew.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -2247,7 +2247,7 @@ footer #select-end {
 }
 
 #A-3 {
-  background-image: url("/images/A-nd.jpeg");
+  background-image: url("../images/A-nd.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 650px;
@@ -2285,7 +2285,7 @@ footer #select-end {
 }
 
 #A-4 {
-  background-image: url("/images/airpods_max_logo__bdgdixidcqcy_large.jpg");
+  background-image: url("../images/airpods_max_logo__bdgdixidcqcy_large.jpg");
   background-size: center;
   background-position: center;
   background-repeat: no-repeat;
@@ -2578,7 +2578,7 @@ footer #sub-footer ol {
 
 #S-1 {
   margin-top: 25px;
-  background-image: url("/images/Support-1.jpg");
+  background-image: url("../images/Support-1.jpg");
   background-size: cover;
   background-position-x: center;
   height: 450px;
@@ -2779,7 +2779,7 @@ footer #sub-footer ol {
 }
 #S-9 .S-9-B2 {
   width: 500px;
-  background-image: url("/images/Applecare.png");
+  background-image: url("../images/Applecare.png");
   height: 450px;
   background-position: center;
   background-size: cover;
@@ -2787,7 +2787,7 @@ footer #sub-footer ol {
 }
 #S-9 .S-9-B3 {
   width: 500px;
-  background-image: url("/images/Appletradein.png");
+  background-image: url("../images/Appletradein.png");
   height: 450px;
   background-position: center;
   background-size: cover;
@@ -3564,7 +3564,7 @@ form .C-2 button {
     width: 100%;
   }
   #lady-banner {
-    background-image: url("/images/ladybanner2.jpg");
+    background-image: url("../images/ladybanner2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: auto;
@@ -3850,7 +3850,7 @@ form .C-2 button {
     font-size: 10px;
   }
   #backgrounds .back-1 {
-    background-image: url("/images/Back-5.jpg");
+    background-image: url("../images/Back-5.jpg");
     background-size: cover;
     height: 500px;
     background-repeat: no-repeat;
@@ -3864,7 +3864,7 @@ form .C-2 button {
     font-size: 13px;
   }
   #backgrounds .back-2 {
-    background-image: url("/images/back-6.jpg");
+    background-image: url("../images/back-6.jpg");
     background-size: cover;
     height: 500px;
     background-repeat: no-repeat;
@@ -4111,7 +4111,7 @@ form .C-2 button {
     height: 250px;
   }
   #ipadd {
-    background-image: url("/images/ipadd-removebg-preview.png");
+    background-image: url("../images/ipadd-removebg-preview.png");
     background-size: contain;
     background-repeat: no-repeat;
     height: 350px;
@@ -4178,7 +4178,7 @@ form .C-2 button {
     background-color: var(--grey);
   }
   #applework .work-1 {
-    background-image: url("/images/Back-6.jpg");
+    background-image: url("../images/Back-6.jpg");
     background-size: cover;
     width: 100%;
     height: 350px;
@@ -4198,7 +4198,7 @@ form .C-2 button {
     font-size: 10px;
   }
   #applework .work-2 {
-    background-image: url("/images/Back-5.jpg");
+    background-image: url("../images/Back-5.jpg");
     background-size: cover;
     width: 100%;
     height: 50vh;
@@ -4243,7 +4243,7 @@ form .C-2 button {
     height: 300px;
   }
   #manbanner {
-    background-image: url("/images/man.jpg");
+    background-image: url("../images/man.jpg");
     background-size: cover;
     background-position: center;
     height: 300px;
@@ -4369,7 +4369,7 @@ form .C-2 button {
     background-color: white;
     margin: 15px;
     text-align: center;
-    background-image: url("/images/Airtag.jpg");
+    background-image: url("../images/Airtag.jpg");
     height: 400px;
     background-size: cover;
     background-position: center;
@@ -4394,7 +4394,7 @@ form .C-2 button {
     background-color: white;
     margin: 15px;
     text-align: center;
-    background-image: url(/images/Headair1-removebg-preview.png);
+    background-image: url(../images/Headair1-removebg-preview.png);
     height: 400px;
     background-size: cover;
     background-position: center;
@@ -4425,7 +4425,7 @@ form .C-2 button {
   #I-1 #I-6 {
     background-color: white;
     margin: 15px;
-    background-image: url("/images/IOS17-removebg-preview.png");
+    background-image: url("../images/IOS17-removebg-preview.png");
     height: 350px;
     background-size: cover;
     background-position: center;
@@ -4466,7 +4466,7 @@ form .C-2 button {
     height: 500px;
     color: white;
     padding-top: 20px;
-    background-image: url("/images/Priv.png");
+    background-image: url("../images/Priv.png");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -4482,7 +4482,7 @@ form .C-2 button {
     border-radius: 15px;
   }
   #I-1 #S-2 {
-    background-image: url("/images/S22.jpg");
+    background-image: url("../images/S22.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -4539,7 +4539,7 @@ form .C-2 button {
     animation: slideIn3 0.5s ease-in-out;
   }
   #W-2 {
-    background-image: url("/images/watch-2.jpg");
+    background-image: url("../images/watch-2.jpg");
     background-size: cover;
     height: 300px;
     color: white;
@@ -4727,7 +4727,7 @@ form .C-2 button {
     width: 100%;
     height: 450px;
     padding-top: 20px;
-    background-image: url(/images/Headair-removebg-preview.png);
+    background-image: url(../images/Headair-removebg-preview.png);
     background-size: cover;
     background-color: var(--grey);
     background-position: center;
@@ -5239,7 +5239,7 @@ form .C-2 button {
   }
   #S-1 {
     margin-top: 25px;
-    background-image: url("/images/Support-1.jpg");
+    background-image: url("../images/Support-1.jpg");
     background-size: cover;
     background-position: center;
     height: 300px;
@@ -5363,7 +5363,7 @@ form .C-2 button {
     font-size: 25px;
   }
   #S-9 .S-9-B2 {
-    background-image: url(/images/Applecare.png);
+    background-image: url(../images/Applecare.png);
     height: 350px;
     width: 100%;
     background-position: center;
@@ -5372,7 +5372,7 @@ form .C-2 button {
     margin-bottom: 0px;
   }
   #S-9 .S-9-B3 {
-    background-image: url("/images/Appletradein.png");
+    background-image: url("../images/Appletradein.png");
     height: 350px;
     width: 100%;
     background-position: center;
@@ -5530,7 +5530,7 @@ form .C-2 button {
     background-color: var(--grey);
   }
   #cards .All-cards .box1 .card-1 {
-    background-image: url("/images/iphone-14-removebg-preview.png");
+    background-image: url("../images/iphone-14-removebg-preview.png");
     background-position: center;
     background-size: cover;
     height: 220px;
@@ -5573,7 +5573,7 @@ form .C-2 button {
     text-decoration: none;
   }
   #cards .All-cards .box1 .card-3 {
-    background-image: url("/images/i-watch-removebg-preview.png");
+    background-image: url("../images/i-watch-removebg-preview.png");
     background-position: center;
     background-size: cover;
     height: 450px;
@@ -5649,7 +5649,7 @@ form .C-2 button {
     padding: 0px 40px;
   }
   #lady-banner #lady-banner {
-    background-image: url("/images/ladybanner2.jpg");
+    background-image: url("../images/ladybanner2.jpg");
     background-position-y: center;
     background-size: cover;
     height: auto;
@@ -5910,7 +5910,7 @@ form .C-2 button {
     width: 100%;
   }
   #ipadd {
-    background-image: url("/images/ipadd-removebg-preview.png");
+    background-image: url("../images/ipadd-removebg-preview.png");
     background-size: cover;
     background-position: center;
     height: 400px;
@@ -5984,7 +5984,7 @@ form .C-2 button {
     grid-template-columns: 1fr;
   }
   #applework .work-1 {
-    background-image: url("/images/Back-6.jpg");
+    background-image: url("../images/Back-6.jpg");
     background-size: cover;
     width: 100%;
     height: 350px;
@@ -5995,7 +5995,7 @@ form .C-2 button {
     color: white;
   }
   #applework .work-2 {
-    background-image: url("/images/Back-5.jpg");
+    background-image: url("../images/Back-5.jpg");
     background-size: cover;
     width: 100%;
     height: 350px;
@@ -6013,7 +6013,7 @@ form .C-2 button {
     font-size: 15px;
   }
   #manbanner {
-    background-image: url("/images/man.jpg");
+    background-image: url("../images/man.jpg");
     background-size: cover;
     height: 650px;
     border-radius: 30px;
@@ -6280,7 +6280,7 @@ form .C-2 button {
     font-size: 60px;
   }
   #A-4 {
-    background-image: url("/images/newairtext.jpg");
+    background-image: url("../images/newairtext.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -6572,7 +6572,7 @@ form .C-2 button {
     grid-template-columns: 1fr;
   }
   #applework .work-1 {
-    background-image: url("/images/Back-6.jpg");
+    background-image: url("../images/Back-6.jpg");
     background-size: cover;
     width: 100%;
     height: 500px;
@@ -6583,7 +6583,7 @@ form .C-2 button {
     color: white;
   }
   #applework .work-2 {
-    background-image: url("/images/Back-5.jpg");
+    background-image: url("../images/Back-5.jpg");
     background-size: cover;
     width: 100%;
     height: 500px;
