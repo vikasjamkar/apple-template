@@ -15,7 +15,7 @@
 }
 
 :root {
-  --grey:#dcdcdd ;
+  --grey:#f5f5f7 ;
 }
 
 header .mobile-navbar {
@@ -3457,7 +3457,6 @@ form .C-2 button {
     padding: 10px 0px;
     cursor: pointer;
     font-size: 13px;
-    font-family: Arial, Helvetica, sans-serif;
   }
   footer #select-end .accordion .accordion-content {
     display: none;
