@@ -3454,7 +3454,7 @@ form .C-2 button {
     border-bottom: 1px solid grey;
     display: flex;
     justify-content: space-between;
-    padding: 6px 0px;
+    padding: 10px 0px;
     cursor: pointer;
     font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
