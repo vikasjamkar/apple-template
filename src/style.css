@@ -5511,6 +5511,51 @@ form .C-2 button {
 }
 /* For tablets (768px to 1023px width) */
 @media (min-width: 768px) and (max-width: 1023px) {
+  header .mobile-navbar {
+    display: block;
+  }
+  header .mobile-navbar .mobile-nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: var(--grey);
+    color: black;
+  }
+  header .mobile-navbar .mobile-nav ul {
+    display: none;
+  }
+  header .mobile-navbar .mobile-nav span {
+    margin-left: 15px;
+    cursor: pointer;
+    font-size: 22px;
+  }
+  header .mobile-navbar .mobile-nav #bar {
+    font-size: 22px;
+  }
+  header .mobile-navbar .mobile-nav i {
+    font-size: 22px;
+  }
+  header .mobile-navbar .mobile-nav .mobile-bar {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+    gap: 20px;
+    position: absolute;
+    top: 7%;
+    left: 0%;
+    right: 0%;
+    z-index: 66;
+    background-color: var(--grey);
+    padding: 30px 40px;
+    color: black;
+  }
+  header .mobile-navbar .mobile-nav .mobile-bar li a {
+    font-size: 28px;
+    font-weight: 700;
+    color: #333336;
+  }
   header .wrapper {
     display: none;
   }

@@ -6213,6 +6213,63 @@ form{
 /* For tablets (768px to 1023px width) */
 @media (min-width: 768px) and (max-width: 1023px) {
 	header{
+		.mobile-navbar{
+			display: block;
+			// position: fixed;
+			// top: 0%;
+			// left: 0%;
+			// width: 100%;
+			// z-index: 55;
+			.mobile-nav{
+				display: flex;
+				justify-content: space-between;
+				padding: 15px;
+				background-color: var(--grey);
+				color: black;
+
+				ul{
+					display: none;
+				}
+
+				span{
+					margin-left: 15px;
+					cursor: pointer;
+					font-size: 22px;
+				}
+				#bar{
+					font-size: 22px;
+				}
+				i{
+					font-size: 22px;
+				}
+				.mobile-bar{
+					display:flex;
+					justify-content: flex-start;
+					flex-direction: column;
+					height:auto;
+					width: 100%;
+					gap: 20px;
+					position: absolute;
+					top: 7%;
+					left: 0%;
+					right: 0%;
+					z-index: 66;
+					background-color: var(--grey);
+					padding: 30px 40px;
+					color: black;
+
+					li a{
+						font-size: 28px;
+						font-weight: 700;
+						color: #333336;
+					}
+
+
+
+				}
+			}
+
+		}
 		.wrapper{
 			display: none;
 		}
