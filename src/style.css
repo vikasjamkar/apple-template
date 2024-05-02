@@ -1008,7 +1008,7 @@ footer #select-end {
   width: 100%;
   padding: 20px;
   position: fixed;
-  top: 3%;
+  top: 0%;
   left: 0%;
   right: 0%;
   background-color: black;
@@ -3911,7 +3911,7 @@ form .C-2 button {
     width: 100%;
     gap: 20px;
     position: absolute;
-    top: 5%;
+    top: 4%;
     left: 0%;
     right: 0%;
     z-index: 66;
