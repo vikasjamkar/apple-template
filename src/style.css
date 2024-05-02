@@ -1073,7 +1073,7 @@ footer #select-end {
 }
 #ipad .wrapper-2 nav ul li:hover ul.menu-area {
   top: 100%;
-  background-color: black;
+  background-color: #1d1d1f;
   color: white;
 }
 #ipad .wrapper-2 nav ul.menu-area ul {
