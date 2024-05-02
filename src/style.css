@@ -1011,7 +1011,7 @@ footer #select-end {
   top: 0%;
   left: 0%;
   right: 0%;
-  background-color: black;
+  background-color: #1d1d1f;
   color: white;
   z-index: 55;
 }
