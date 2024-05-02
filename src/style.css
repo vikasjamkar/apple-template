@@ -3911,7 +3911,7 @@ form .C-2 button {
     width: 100%;
     gap: 20px;
     position: absolute;
-    top: auto;
+    top: 5%;
     left: 0%;
     right: 0%;
     z-index: 66;
